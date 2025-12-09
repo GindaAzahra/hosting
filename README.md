@@ -2,8 +2,11 @@
 https://gindaazahra.infinityfree.me/
 
 ## Link Api
-https://gindaazahra.infinityfree.me/CRUD/flow/get_data.php
-https://gindaazahra.infinityfree.me/CRUD/koneksi/connection.php
+http://gindaazahra.infinityfree.me/CRUD/koneksi/connection.php
+http://gindaazahra.infinityfree.me/CRUD/flow/get_data.php
+http://gindaazahra.infinityfree.me/CRUD/flow/insup_data.php
+http://gindaazahra.infinityfree.me/CRUD/flow/insup_data.php
+http://gindaazahra.infinityfree.me/CRUD/flow/delete_data.php
 
 ## SCREENSHOOT  PROJECT
 # 📷Tampian Halaman Utama 
