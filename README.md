@@ -7,29 +7,29 @@ https://gindaazahra.infinityfree.me/CRUD/koneksi/connection.php
 
 ## SCREENSHOOT  PROJECT
 # 📷Tampian Halaman Utama 
-![H](assets/H1.png)
-![H](assets/H2.png)
-![H](assets/H3.png)
-![H](assets/H4.png)
+![H](img/H1.png)
+![H](img/H2.png)
+![H](img/H3.png)
+![H](img/H4.png)
 
 # 📷Tampian Detail Informasi
-![D](assets/detail.png)
+![D](img/detail.png)
 
 # 📷Tampian Login
-![L](assets/log1.png)
-![L](assets/log2.png)
+![L](img/log1.png)
+![L](img/log2.png)
 
 # 📷Tampian Register
-![R](assets/regist1.png)
-![R](assets/regist2.png)
+![R](img/regist1.png)
+![R](img/regist2.png)
 
 # 📷Tampian Dashboar Setelah Login 
-![D](assets/dashboard.png)
+![D](img/dashboard.png)
 
 # 📷Tampian CRUD
-![C](assets/s1.png)
-![C](assets/s2.png)
-![C](assets/s3.png)
-![C](assets/s4.png)
-![C](assets/s5.png)
+![C](img/s1.png)
+![C](img/s2.png)
+![C](img/s3.png)
+![C](img/s4.png)
+![C](img/s5.png)
 
